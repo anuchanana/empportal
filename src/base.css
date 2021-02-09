@@ -1,0 +1,15 @@
+.akacolor{   
+        background-color: #135890 !important;   
+}
+.lighttext{
+        color: white;      
+}
+.darktext{
+        color: #135890;  
+}
+.textfontfamily{
+font-family: 'Open Sans', sans-serif;
+}
+body{
+        height: 1000px;
+}

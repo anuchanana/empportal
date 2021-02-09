@@ -1,0 +1,17 @@
+.navbar-right-custom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    width: 10%;
+}
+.navbar-right-custom .nav-link {
+    color: white;
+
+}
+.navbar-right-custom .nav-link:hover {
+    color: gainsboro;
+    
+}

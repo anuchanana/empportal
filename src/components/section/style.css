@@ -1,0 +1,16 @@
+.allignaccordianheader {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.blockgroupdiv{
+
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+
+}
